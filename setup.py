@@ -12,7 +12,7 @@ def get_long_description():
 
 setup(
     name="pids",
-    version="0.1.1",
+        version="0.1.2",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     description="A tiny Python library for generating public IDs from integers",
